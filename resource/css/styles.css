@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
+
+.logo{
+    height: 65px;
+}
+
+.custom-navbar {
+    background-color: #02081e;
+}
+
+.header{
+    min-height: 100vh;
+    background-image: linear-gradient(#1c1c1c5f, #1c1c1c5f), url('../img/1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card1{
+    background-color: #1c1c1cb5;
+}
+
+.about_us{
+    min-height: 100vh;
+    background-image: linear-gradient(#1c1c1c5f, #1c1c1c5f), url('../img/5.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    min-height: 5vh;
+    background-color: #02081e;
+}
